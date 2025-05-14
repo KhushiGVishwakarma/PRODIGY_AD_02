@@ -20,7 +20,7 @@ I’ve built a clean, modern **To-Do List App** using **Java** and **XML**, with
 - Floating Action Button (FAB) for task addition
 
 ## 📎 LinkedIn Post:
-[🔗 View My LinkedIn Post ➜](https://www.linkedin.com/in/khushi-vishwakarma/)
+[🔗 View My LinkedIn Post ➜]((https://www.linkedin.com/posts/khushi-vishwakarma-152188341_androiddevelopment-java-xml-activity-7328504279856553984-3EO6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWiGs4BdFdE1dlYyl_9NpIWNoSnGlDpcL0))
 
 ## 📂 GitHub Repository:
 [🔗 PRODIGY_AD_02 GitHub Repo](https://github.com/KhushiGVishwakarma/PRODIGY_AD_02)
