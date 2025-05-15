@@ -42,6 +42,6 @@ I’ve built a clean, modern **To-Do List App** using **Java** and **XML**, with
 ---
 
 ## 🚀 Connect With Me:
-- 💼 [LinkedIn – Khushi Vishwakarma](https://www.linkedin.com/in/khushi-vishwakarma/)
+- 💼 [LinkedIn – Khushi Vishwakarma](https://www.linkedin.com/in/khushi-vishwakarma-152188341)
 - 💻 [GitHub – @KhushiGVishwakarma](https://github.com/KhushiGVishwakarma)
 
