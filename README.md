@@ -1,7 +1,6 @@
-# PRODIGY_AD_02 – To-Do List Android App
+# To-Do List Android App
 
 ## 📱 Project Description:
-This is my second task as part of the **Android Development Internship at Prodigy InfoTech**.  
 I’ve built a clean, modern **To-Do List App** using **Java** and **XML**, with a **dark-themed user interface** and intuitive task management features.
 
 ## 🔧 Features:
@@ -23,12 +22,7 @@ I’ve built a clean, modern **To-Do List App** using **Java** and **XML**, with
 [🔗 View My LinkedIn Post ➜](https://www.linkedin.com/posts/khushi-vishwakarma-152188341_androiddevelopment-java-xml-activity-7328504279856553984-3EO6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWiGs4BdFdE1dlYyl_9NpIWNoSnGlDpcL0)
 
 ## 📂 GitHub Repository:
-[🔗 PRODIGY_AD_02 GitHub Repo](https://github.com/KhushiGVishwakarma/PRODIGY_AD_02)
-
-## 📌 Task Info:
-- Track: Android Development
-- Internship: Prodigy InfoTech
-- Task 02: To-Do List App
+[🔗 ToDoList_App_Android GitHub Repo](https://github.com/KhushiGVishwakarma/ToDoList_App_Android)
 
 ---
 
